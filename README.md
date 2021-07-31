@@ -10,7 +10,7 @@ pip install tenetpy
 How to check if a word is a palindrome:
 
 ```Python
-from TenetPy import PalindromeWord
+import TenetPy
 
 # This line print on the console "palindrome"
 
