@@ -14,5 +14,5 @@ from TenetPy import PalindromeWord
 
 # This line print on the console "palindrome"
 
-PalindromeWord.check("tenet")
+TenetPy.PalindromeWord.check("tenet")
 ```
