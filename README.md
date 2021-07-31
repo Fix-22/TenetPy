@@ -3,7 +3,7 @@ A small library for checking palindrome stuff. (Yes very helpful...).
 
 ### Installation
 ```
-pip install tenetpy
+pip install TenetPy
 ```
 
 ### Get started
